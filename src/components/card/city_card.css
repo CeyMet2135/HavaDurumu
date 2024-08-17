@@ -1,0 +1,20 @@
+.card {
+    background-color: rgb(184, 184, 184);
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.uyari {
+    background-color: rgb(244, 210, 60);
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.card_content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
