@@ -6,7 +6,7 @@ const CityCard = ({ cities }) => {
 
     return (
         <div className="card_content">
-            <p>HAVA DURUMU</p>
+           
 
             {
                 cities.length > 0 ?
